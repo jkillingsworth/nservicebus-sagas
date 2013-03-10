@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMessages", "src\MyMessages\MyMessages.csproj", "{52CC06CC-68D4-4C8D-8DE6-E13ED98C783D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySaga", "src\MySaga\MySaga.csproj", "{61AF7B94-388F-4DA8-BB1C-3FBCC3222BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCommon", "src\AppCommon\AppCommon.csproj", "{88CFF6A0-9CF1-4234-8D9F-043BCBE3F2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForSubmittingRequests", "src\AppForSubmittingRequests\AppForSubmittingRequests.csproj", "{DED2961A-62A7-428B-AFB5-10F06F48528C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForApproversLevel1", "src\AppForApproversLevel1\AppForApproversLevel1.csproj", "{343A1833-C400-40A9-B63D-39E6D0B278FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForApproversLevel2", "src\AppForApproversLevel2\AppForApproversLevel2.csproj", "{05214ED6-EBB0-400C-B2EF-DEDD999A49AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForAccountingDept", "src\AppForAccountingDept\AppForAccountingDept.csproj", "{94AEA031-4C4E-4ED9-AC97-4B1F794715D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CC06CC-68D4-4C8D-8DE6-E13ED98C783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CC06CC-68D4-4C8D-8DE6-E13ED98C783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CC06CC-68D4-4C8D-8DE6-E13ED98C783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CC06CC-68D4-4C8D-8DE6-E13ED98C783D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AF7B94-388F-4DA8-BB1C-3FBCC3222BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AF7B94-388F-4DA8-BB1C-3FBCC3222BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AF7B94-388F-4DA8-BB1C-3FBCC3222BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AF7B94-388F-4DA8-BB1C-3FBCC3222BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CFF6A0-9CF1-4234-8D9F-043BCBE3F2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CFF6A0-9CF1-4234-8D9F-043BCBE3F2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CFF6A0-9CF1-4234-8D9F-043BCBE3F2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CFF6A0-9CF1-4234-8D9F-043BCBE3F2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED2961A-62A7-428B-AFB5-10F06F48528C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED2961A-62A7-428B-AFB5-10F06F48528C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED2961A-62A7-428B-AFB5-10F06F48528C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED2961A-62A7-428B-AFB5-10F06F48528C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343A1833-C400-40A9-B63D-39E6D0B278FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343A1833-C400-40A9-B63D-39E6D0B278FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343A1833-C400-40A9-B63D-39E6D0B278FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343A1833-C400-40A9-B63D-39E6D0B278FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05214ED6-EBB0-400C-B2EF-DEDD999A49AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05214ED6-EBB0-400C-B2EF-DEDD999A49AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05214ED6-EBB0-400C-B2EF-DEDD999A49AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05214ED6-EBB0-400C-B2EF-DEDD999A49AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AEA031-4C4E-4ED9-AC97-4B1F794715D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AEA031-4C4E-4ED9-AC97-4B1F794715D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AEA031-4C4E-4ED9-AC97-4B1F794715D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AEA031-4C4E-4ED9-AC97-4B1F794715D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35;packages\Unity.Interception.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
